@@ -1,7 +1,7 @@
 # BigSocialDataAnalytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jjussila/BigSocialDataAnalytics/inforte.png"/>
+  <img src="http://inforte.jyu.fi/++theme++inforte_2014/img/logo.jpg"/>
 </p>
 
 Big Social Data Analytics
