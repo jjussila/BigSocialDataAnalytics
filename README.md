@@ -1,4 +1,7 @@
 # BigSocialDataAnalytics
 
-![alt text](https://raw.githubusercontent.com/jjussila/BigSocialDataAnalytics/inforte_logo.jpg)
-Inforte Big Social Data Analytics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jjussila/BigSocialDataAnalytics/inforte_logo.jpg"/>
+</p>
+
+Big Social Data Analytics
