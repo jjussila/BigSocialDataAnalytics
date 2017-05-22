@@ -6,7 +6,7 @@
 
 Big Social Data Analytics
 
-Schedule and location  
+<strong>Schedule and location</strong>
 Tuesday May 23th –  Wednesday May 24th    
 Tampere University of Technology, Tampere (visiting address: Korkeakoulunkatu 10)  
 Tue 23.5: Festia Building, Kappelisali FA128  
