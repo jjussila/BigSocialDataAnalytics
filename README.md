@@ -14,7 +14,7 @@ Tue 23.5: Festia Building, Kappelisali FA128<br>
 Wed 24.5: TUT Central Building, Kampusklubi, 5th Floor<br>
 </p>
 
-<strong>Prerequisites</strong>
+<strong>Links</strong>
 <p>
 Twitter Dev: https://dev.twitter.com/ <br>
 Twitter Apps: https://apps.twitter.com <br>
