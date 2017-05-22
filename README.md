@@ -17,6 +17,7 @@ Wed 24.5: TUT Central Building, Kampusklubi, 5th Floor<br>
 <strong>Prerequisites</strong>
 <p>
 Twitter Dev: https://dev.twitter.com/ <br>
+Twitter data analysis in Pandas: https://github.com/jukkahuhtamaki/pcm-demo/tree/master/twitter-api <br> 
 PythonAnyWhere: https://www.pythonanywhere.com <br>
 cbwstweets: http://cbs-tweet.herokuapp.com/ <br>
 Tableau for Students: https://www.tableau.com/academic/students <br>
