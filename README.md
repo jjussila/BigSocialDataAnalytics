@@ -56,7 +56,7 @@ Aramo-Immonen, H., Jussila, J., & Huhtamäki, J. (2015). Exploring co-learning b
 Huhtamäki, J., Still, K., Isomursu, M., Russell, M., Rubens, N. (2012, September). Networks of Growth: The Case of Young Innovative Companies in Finland. In Proceedings of the 7th European Conference on Innovation and Entrepreneurship: ECIE (p. 307). Academic Conferences Limited. http://www.academia.edu/download/37465560/ECIE_2012-Proceedings-VasistaPaper_Published.pdf#page=329 <br><br>
 Bastian, M., Heymann, S., Jacomy, M. (2009). Gephi: an open source software for exploring and manipulating networks. ICWSM, 8, 361-362.http://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewFile/154/1009/ <br><br>
 Jacomy, M., Venturini, T., Heymann, S., Bastian, M. (2014). ForceAtlas2, a continuous graph layout algorithm for handy network visualization designed for the Gephi software. PloS one, 9(6), e98679. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679 <br><br>
-McSweeney, P. J. (2009). Gephi Network Statistics. Presentado en Google Summer of Code. Recuperado a partir de http://gephi.org/google-soc/gephi-netalgo.pdf <br><br>
+McSweeney, P. J. (2009). Gephi Network Statistics. Presentado en Google Summer of Code. Recuperado a partir de http://web.ecs.syr.edu/~pjmcswee/gephi.pdf<br><br>
 Aggarwal, C. C., & Zhai, C. (2012). Mining text data: Springer Science & Business Media. <br><br>
 Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: O'Reilly Media, Inc. <br><br>
 Hyndman, R. J., & Athanasopoulos, G. (2014). Forecasting: principles and practice: OTexts: https://www.otexts.org/fpp/ <br><br>
