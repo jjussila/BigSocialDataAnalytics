@@ -31,3 +31,19 @@ NetworkX Tutorial: http://networkx.readthedocs.io/en/latest/tutorial/index.html 
 <p>
 Team Assignment - Extraction of Twitter data and Network Visualisation with Gephi: https://github.com/jjussila/BigSocialDataAnalytics/blob/master/learningmaterial/BSD_SNA_Assignment.pdf <br>
 </p>
+
+<strong>Readings</strong>
+<p>
+Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., . . . Van Alstyne, M. (2009). Computational Social Science. Science, 323(5915), 721-723. doi:DOI 10.1126/science.1167742 <br>
+Cioffi-Revilla, C. (2013). Introduction to Computational Social Science: Principles and Applications: Springer Science & Business Media. <br>
+Wasserman, S., Faust, K. (1994). Social network analysis: Methods and applications (Vol. 8). Cambridge university press. <br>
+Huhtamäki, J. (2016). Ostinato Process Model for Visual Network Analytics: Experiments in Innovation Ecosystems. (Tampere University of Technology. Publication; Vol. 1425). Tampere University of Technology. https://tutcris.tut.fi/portal/files/8609580/huhtam_ki_1425.pdf <br>
+Aramo-Immonen, H., Jussila, J., Huhtamäki, J. (2015). Exploring co-learning behavior of conference participants with visual network analysis of Twitter data. Computers in Human Behavior, 51, 1154-1162.https://www.researchgate.net/profile/Jari_Jussila/publication/273763819_Exploring_co-learning_behavior_of_conference_participants_with_visual_network_analysis_of_Twitter_data/links/55bee8d208ae9289a099dd1a.pdf <br>
+Huhtamäki, J., Still, K., Isomursu, M., Russell, M., Rubens, N. (2012, September). Networks of Growth: The Case of Young Innovative Companies in Finland. In Proceedings of the 7th European Conference on Innovation and Entrepreneurship: ECIE (p. 307). Academic Conferences Limited. http://www.academia.edu/download/37465560/ECIE_2012-Proceedings-VasistaPaper_Published.pdf#page=329 <br>
+Bastian, M., Heymann, S., Jacomy, M. (2009). Gephi: an open source software for exploring and manipulating networks. ICWSM, 8, 361-362.http://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewFile/154/1009/ <br>
+Jacomy, M., Venturini, T., Heymann, S., Bastian, M. (2014). ForceAtlas2, a continuous graph layout algorithm for handy network visualization designed for the Gephi software. PloS one, 9(6), e98679. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679 <br>
+McSweeney, P. J. (2009). Gephi Network Statistics. Presentado en Google Summer of Code. Recuperado a partir de http://gephi.org/google-soc/gephi-netalgo.pdf <br>
+
+
+
+</p>
