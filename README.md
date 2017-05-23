@@ -12,6 +12,7 @@ Tuesday May 23th –  Wednesday May 24th<br>
 Tampere University of Technology, Tampere (visiting address: Korkeakoulunkatu 10)<br>  
 Tue 23.5: Festia Building, Kappelisali FA128<br>  
 Wed 24.5: TUT Central Building, Kampusklubi, 5th Floor<br>
+<br>
 </p>
 
 <strong>Links</strong>
@@ -25,11 +26,13 @@ PythonAnyWhere: https://www.pythonanywhere.com <br>
 cbstweets: http://cbs-tweet.herokuapp.com/ <br>
 Gephi -The Open Graph Viz Platform: https://gephi.org/ <br>
 NetworkX Tutorial: http://networkx.readthedocs.io/en/latest/tutorial/index.html <br>
+<br>
 </p>
 
 <strong>Learning material</strong>
 <p>
 Team Assignment - Extraction of Twitter data and Network Visualisation with Gephi: https://github.com/jjussila/BigSocialDataAnalytics/blob/master/learningmaterial/BSD_SNA_Assignment.pdf <br>
+<br>
 </p>
 
 <strong>Readings</strong>
