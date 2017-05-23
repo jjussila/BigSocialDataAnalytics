@@ -26,3 +26,8 @@ cbstweets: http://cbs-tweet.herokuapp.com/ <br>
 Gephi -The Open Graph Viz Platform: https://gephi.org/ <br>
 NetworkX Tutorial: http://networkx.readthedocs.io/en/latest/tutorial/index.html <br>
 </p>
+
+<strong>Learning material</strong>
+<p>
+Team Assignment: Extraction of Twitter data and Network Visualisation with Gephi: https://github.com/jjussila/BigSocialDataAnalytics/blob/master/learningmaterial/BSD_SNA_Assignment.pdf <br>
+</p>
