@@ -17,8 +17,10 @@ Wed 24.5: TUT Central Building, Kampusklubi, 5th Floor<br>
 
 <strong>Links</strong>
 <p>
-Slide material: 
+CBS slide material: 
 https://www.dropbox.com/sh/zrkmu1oetevci7a/AADotAkeL1jhfxmtGDBUOLKXa?dl=0 <br>
+TUT slide materia:
+https://www.dropbox.com/sh/oy9bt612648z6au/AAA_cYP-49OH0xvkqbXG00yka?dl=0 <br>
 Inforte Big Social Data event page: http://inforte.jyu.fi/events/big-social-data-analytics <br>
 Tableau for Students: https://www.tableau.com/academic/students <br>
 Twitter Dev: https://dev.twitter.com/ <br>
