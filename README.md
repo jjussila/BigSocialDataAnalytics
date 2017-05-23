@@ -53,4 +53,8 @@ Huhtamäki, J., Still, K., Isomursu, M., Russell, M., Rubens, N. (2012, Septembe
 Bastian, M., Heymann, S., Jacomy, M. (2009). Gephi: an open source software for exploring and manipulating networks. ICWSM, 8, 361-362.http://www.aaai.org/ocs/index.php/ICWSM/09/paper/viewFile/154/1009/ <br><br>
 Jacomy, M., Venturini, T., Heymann, S., Bastian, M. (2014). ForceAtlas2, a continuous graph layout algorithm for handy network visualization designed for the Gephi software. PloS one, 9(6), e98679. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679 <br><br>
 McSweeney, P. J. (2009). Gephi Network Statistics. Presentado en Google Summer of Code. Recuperado a partir de http://gephi.org/google-soc/gephi-netalgo.pdf <br><br>
+Aggarwal, C. C., & Zhai, C. (2012). Mining text data: Springer Science & Business Media. <br><br>
+Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: O'Reilly Media, Inc. <br><br>
+Hyndman, R. J., & Athanasopoulos, G. (2014). Forecasting: principles and practice: OTexts: https://www.otexts.org/fpp/ <br><br>
+Buus Lassen, N., la Cour, L., & Vatrapu, R. (2017). Predictive Analytics with Social Media Data. In L. Sloan, & A. Quan-Haase (Eds.), The SAGE Handbook of Social Media Research Methods (Chapter 20, pp. 328-341). London: Sage Publications, Incorporated.<br><br>
 </p>
