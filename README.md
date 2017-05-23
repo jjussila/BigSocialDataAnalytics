@@ -34,8 +34,9 @@ Team Assignment - Extraction of Twitter data and Network Visualisation with Geph
 
 <strong>Readings</strong>
 <p>
-Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., . . . Van Alstyne, M. (2009). Computational Social Science. Science, 323(5915), 721-723. doi:DOI 10.1126/science.1167742 <br>
-Cioffi-Revilla, C. (2013). Introduction to Computational Social Science: Principles and Applications: Springer Science & Business Media. <br>
+Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., . . . Van Alstyne, M. (2009). Computational Social Science. Science, 323(5915), 721-723. doi:DOI 10.1126/science.1167742 <br><br>
+Cioffi-Revilla, C. (2013). Introduction to Computational Social Science: Principles and Applications: Springer Science & Business Media. <br><br>
+Vatrapu, R., Mukkamala, R. R., Hussain, A., & Flesch, B. (2016). Social Set Analysis: A Set Theoretical Approach to Big Data Analytics. IEEE Access, 4, 2542-2571. doi:10.1109/ACCESS.2016.2559584 <br><br>
 Wasserman, S., Faust, K. (1994). Social network analysis: Methods and applications (Vol. 8). Cambridge university press. <br>
 Huhtamäki, J. (2016). Ostinato Process Model for Visual Network Analytics: Experiments in Innovation Ecosystems. (Tampere University of Technology. Publication; Vol. 1425). Tampere University of Technology. https://tutcris.tut.fi/portal/files/8609580/huhtam_ki_1425.pdf <br>
 Aramo-Immonen, H., Jussila, J., Huhtamäki, J. (2015). Exploring co-learning behavior of conference participants with visual network analysis of Twitter data. Computers in Human Behavior, 51, 1154-1162.https://www.researchgate.net/profile/Jari_Jussila/publication/273763819_Exploring_co-learning_behavior_of_conference_participants_with_visual_network_analysis_of_Twitter_data/links/55bee8d208ae9289a099dd1a.pdf <br>
