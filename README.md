@@ -29,5 +29,5 @@ NetworkX Tutorial: http://networkx.readthedocs.io/en/latest/tutorial/index.html 
 
 <strong>Learning material</strong>
 <p>
-Team Assignment: Extraction of Twitter data and Network Visualisation with Gephi: https://github.com/jjussila/BigSocialDataAnalytics/blob/master/learningmaterial/BSD_SNA_Assignment.pdf <br>
+Team Assignment: Extraction of Twitter data and Network Visualisation with Gephi https://github.com/jjussila/BigSocialDataAnalytics/blob/master/learningmaterial/BSD_SNA_Assignment.pdf <br>
 </p>
