@@ -18,7 +18,8 @@ Wed 24.5: TUT Central Building, Kampusklubi, 5th Floor<br>
 <strong>Links</strong>
 <p>
 CBS slide material: 
-https://www.dropbox.com/sh/zrkmu1oetevci7a/AADotAkeL1jhfxmtGDBUOLKXa?dl=0 <br>
+(Ravi Vatrapu) https://www.dropbox.com/sh/zrkmu1oetevci7a/AADotAkeL1jhfxmtGDBUOLKXa?dl=0 <br>
+(Raghava Mukkamala) https://www.dropbox.com/sh/cpnh3eozef2fwy5/AAB70ShoVttOhulguK3QkSpna?dl=0<br>
 TUT slide materia:
 https://www.dropbox.com/sh/oy9bt612648z6au/AAA_cYP-49OH0xvkqbXG00yka?dl=0 <br>
 Inforte Big Social Data event page: http://inforte.jyu.fi/events/big-social-data-analytics <br>
